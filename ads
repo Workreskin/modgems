@@ -1,10 +1,10 @@
 { "ADS":
 {
 
-  "banner_type":"admob",
-  "inter_type":"admob",
-  "native_type":"admob",
-  "reward_type": "admob",
+  "banner_type":"applovin",
+  "inter_type":"applovin",
+  "native_type":"applovin",
+  "reward_type": "applovin",
 
   "applovin_banner":"e100e96f8ebbd2cf",
   "applovin_interstitial":"8c56343ab513f248",
